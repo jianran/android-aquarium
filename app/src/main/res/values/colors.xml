@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ocean_deep">#0A1F44</color>
+    <color name="ocean_mid">#1565C0</color>
+    <color name="ocean_light">#42A5F5</color>
+    <color name="sand">#DEB887</color>
+</resources>

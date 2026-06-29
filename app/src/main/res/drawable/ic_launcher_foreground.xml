@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Fish body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,54 C32,43 40,34 52,34 C64,34 72,43 72,54 C72,65 64,74 52,74 C40,74 32,65 32,54 Z"/>
+    <!-- Tail -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M72,54 L88,40 L82,54 L88,68 Z"/>
+    <!-- Eye -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M44,50 C44,46.7 46.7,44 50,44 C53.3,44 56,46.7 56,50 C56,53.3 53.3,56 50,56 C46.7,56 44,53.3 44,50 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M46,47 C46,45.9 46.9,45 48,45 C49.1,45 50,45.9 50,47 C50,48.1 49.1,49 48,49 C46.9,49 46,48.1 46,47 Z"/>
+    <!-- Bubbles -->
+    <path
+        android:fillColor="#90CAF9"
+        android:pathData="M22,38 C22,35.2 24.2,33 27,33 C29.8,33 32,35.2 32,38 C32,40.8 29.8,43 27,43 C24.2,43 22,40.8 22,38 Z"/>
+    <path
+        android:fillColor="#90CAF9"
+        android:pathData="M16,25 C16,23.3 17.3,22 19,22 C20.7,22 22,23.3 22,25 C22,26.7 20.7,28 19,28 C17.3,28 16,26.7 16,25 Z"/>
+    <path
+        android:fillColor="#BBDEFB"
+        android:pathData="M25,20 C25,18.9 25.9,18 27,18 C28.1,18 29,18.9 29,20 C29,21.1 28.1,22 27,22 C25.9,22 25,21.1 25,20 Z"/>
+</vector>
