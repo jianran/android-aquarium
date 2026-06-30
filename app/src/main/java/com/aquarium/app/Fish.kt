@@ -8,7 +8,8 @@ data class Fish(
     val type: FishType,
     var direction: Int = 1,
     var wobble: Float = 0f,
-    val wobbleSpeed: Float = 0.04f
+    val wobbleSpeed: Float = 0.04f,
+    val luckyFin: Boolean = false   // Nemo's deformed right fin
 )
 
 enum class FishType {
